@@ -40,6 +40,9 @@ public class CityMapController {
             if ((loadedCityMap = cityMapService.getCityMapById(1)) == null) {
                 loadedCityMap = cityMapService.loadFromXML("src/main/resources/fichiersXMLPickupDelivery/petitPlan.xml");
             }
+            // Initialize the courier
+            dataService.InitalizeCourier();
+            
             // Return the loaded city map as JSON
             return ResponseEntity.ok(loadedCityMap);
         } catch (Exception e) {

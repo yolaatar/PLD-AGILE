@@ -23,6 +23,11 @@ public class DataService {
         return courierRepository.save(courier);
     }
 
+    public void InitalizeCourier() {
+        Courier courier1 = new Courier() ; 
+        courier1.setName("Mohamed le livreur") ;
+        courierRepository.save(courier1) ;
+    }
     public List<Courier> getAllCouriers() {
         return courierRepository.findAll();
     }
