@@ -83,3 +83,8 @@ https://app.getpostman.com/join-team?invite_code=f8400535894f0678612b691e3c55b19
 - Ajout du suivi en temps réel des livraisons.
 - Support pour des entrepôts multiples et des couriers supplémentaires.
 - Intégration avec des cartes en temps réel via des services tiers (Google Maps, etc.).
+
+## Liens utiles
+Voici les différents répos originaux utilisés pendant le développement : 
+- Front-End : https://github.com/mflwu/agile-front
+- Back-End : https://github.com/mehdigriguer/ubereats-clone
