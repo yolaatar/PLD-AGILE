@@ -1,7 +1,7 @@
 # Application de Planification de Livraisons
 
 ## Présentation
-Cette application vise à optimiser les tournées de livraison en tenant compte de diverses contraintes (temps de livraison, temps de ramassage, etc.). Elle combine une interface React + Vite et un backend robuste en Spring Boot, soutenu par une base de données MySQL.
+Cette application full stack vise à optimiser les tournées de livraison en tenant compte de diverses contraintes (temps de livraison, temps de ramassage, etc.). Elle combine une interface React + Vite et un backend robuste en Spring Boot, soutenu par une base de données MySQL.
 
 ## Fonctionnalités Réalisées
 ### Gestion des couriers et des demandes
