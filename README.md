@@ -87,4 +87,4 @@ https://app.getpostman.com/join-team?invite_code=f8400535894f0678612b691e3c55b19
 ## Liens utiles
 Voici les différents répos originaux utilisés pendant le développement : 
 - Front-End : https://github.com/mflwu/agile-front
-- Back-End : https://github.com/mehdigriguer/ubereats-clone
+- Back-End : https://github.com/mehdigriguer/agile-back
